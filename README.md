@@ -5,6 +5,8 @@
 - 📫 How to reach me via:
 - http://bscc.spatial-cognition.de/ziemer
 - https://play.google.com/store/apps/developer?id=Curat
+- https://www.kulturwissenschaften.uni-hamburg.de/en/sm/personen/ziemer.html
+- https://systmus.blogs.uni-hamburg.de/
 
 
 <!---
